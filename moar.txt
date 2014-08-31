@@ -1,5 +1,5 @@
 foo bar baz qux quux 
 corge grault garply 
-waldo fred plugh xyzzy 
+waldo fred biff xyzzy 
 thud.
 Dang it!, ran out of metasyntactic vars :(
